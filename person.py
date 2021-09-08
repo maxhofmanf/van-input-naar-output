@@ -1,0 +1,6 @@
+print("  ---------------------------------------------------- ")
+print("|  Naam      : max hofman ")               
+print("|  Adres     : rembrandlaan 47             ")
+print("|  Postcode  : weetniet123                         ")
+print("|  Woonplaats: papendrecht                          ")
+print( "----------------------------------------------------")
